@@ -1,0 +1,14 @@
+[2025-02-16 20:52:43] INFO: GET / - ::1
+[2025-02-16 20:53:01] INFO: GET /api/logs - ::1
+[2025-02-16 20:53:01] INFO: Accessed the /logs route
+[2025-02-16 20:58:49] INFO
+[2025-02-16 20:58:49] INFO
+[2025-02-16 20:59:48] INFO: GET /api/logs - ::1
+[2025-02-16 20:59:48] INFO: Accessed the /logs route
+[2025-02-16 21:02:34] INFO: undefined undefined - undefined
+[2025-02-16 21:02:34] INFO: Accessed the /logs route
+[2025-02-16 23:06:42] INFO: undefined / - ::1
+[2025-02-16 23:06:47] INFO: undefined / - ::1
+[2025-02-16 23:07:00] INFO: undefined /about - ::1
+[2025-02-16 23:07:00] INFO: undefined /favicon.ico - ::1
+[2025-02-16 23:07:20] INFO: GET /about - ::1

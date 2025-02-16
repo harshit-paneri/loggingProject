@@ -1,0 +1,19 @@
+{
+  "name": "loggig",
+  "version": "1.0.0",
+  "description": "dummy project using node.js",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
+    "start": "node scr/index.js"
+  },
+  "author": "Harshit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "winston": "^3.17.0"
+  }
+}
